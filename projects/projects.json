@@ -1,0 +1,38 @@
+[
+  {
+    "name": "PlayPal",
+    "desc": "Online CD/DVD Library Management Website using HTML, CSS and Js",
+    "image": "instagrammern",
+    "category":"basicweb",
+    "links": {
+      "code": "https://github.com/IshikaXDatta/PlayPal"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "flipkartmern",
+    "category": "basicweb",
+    "links": {
+          "code": "https://github.com/IshikaXDatta"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Simple Calculator using HTML, CSS, Js",
+    "image": "resumegen",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/IshikaXDatta/Simple-Calculator"
+    }
+  },
+  {
+    "name": "Quizical",
+    "desc": "Quiz App Website using HTML, CSS, Js",
+    "image": "reactprojects",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/IshikaXDatta/Quizical"
+    }
+  }
+]
